@@ -1,2 +1,2 @@
-!(architecture)[arch.png]
-!(sla)[sla.png]
+![architecture](arch.png)
+![sla](sla.png)
